@@ -1,0 +1,12 @@
+Medication
+
+Des camions doivent livrer des médicaments à des localisations données.
+Les camions se deplacent sur un graphe ; les points de depart et d'arrivée des medicaments sont sur ce même graphe.
+Chaque camion à un nombre fixé de conteneur ; chaque conteneur ne peut contenir qu'un seul medicament.
+
+
+Grapple
+
+Le but est de deplacer des caisses avec un pince pour les aligner dans un certain ordre.
+On ne peut reposer une caisse que sur un emplacement libre.
+Pour gagner du temps, on peut deplacer deux caisse à la fois mais uniquement si elles sont adjacentes : pour les deposer il faut deux emplacements libres adjacents
